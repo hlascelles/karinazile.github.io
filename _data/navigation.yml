@@ -1,0 +1,26 @@
+#
+#   Navigation to the left › side: left
+#
+- title: About
+  url: "/"
+  side: left
+
+- title: "My Research"
+  url: "#"
+  side: left
+  dropdown:
+
+- title: "My Planet"
+  url: "#"
+  side: left
+
+- title: "Food"
+  url: "/food/"
+  side: left
+  dropdown:
+  - title: "Banana chocolate muffins"
+    url: "/food/banana-chocolate-muffins/"
+
+- title: "Other stuff"
+  url: "#"
+  side: left
