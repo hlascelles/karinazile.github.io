@@ -13,7 +13,7 @@ tags:
     - breakfast
 ---
 
-## Ingredients:
+# Ingredients:
 * 1.5 cups flour
 * 2 teaspoons baking powder
 * 0.5 teaspoon baking soda
@@ -25,7 +25,7 @@ tags:
 * 2 tablespoons butter
 
 
-## Methods:
+# Methods:
 * Mix the flour, baking powder, baking soda, sugar and salt.
 * Separately whisk together the buttermilk, egg and melted butter. 
 * Stir the wet ingredients into the dry ingredients just until combined. Do not overmix, here should be lumps in the batter.
