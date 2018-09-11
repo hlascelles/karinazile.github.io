@@ -13,9 +13,7 @@ tags:
     - breakfast
 ---
 
-## Lato – A Sans Serif Typeface Family
-
-# Ingredients:
+### Ingredients:
 
 * 1.5 cups flour
 * 2 teaspoons baking powder
@@ -28,7 +26,7 @@ tags:
 * 2 tablespoons butter
 
 
-# Methods:
+### Ingredients:
 
 * Mix the flour, baking powder, baking soda, sugar and salt.
 * Separately whisk together the buttermilk, egg and melted butter. 
