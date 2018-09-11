@@ -19,7 +19,9 @@
   side: left
   dropdown:
   - title: "Banana chocolate muffins"
-    url: "/food/banana-chocolate-muffins/"
+    url: "/food/bmf/"
+  - title: "Buttermilk pancakes"
+    url: "/food/buttermilk-pancakes/"
 
 - title: "Other stuff"
   url: "#"
