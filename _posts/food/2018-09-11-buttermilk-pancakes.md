@@ -32,6 +32,6 @@ tags:
 * Separately whisk together the buttermilk, egg and melted butter. 
 * Stir the wet ingredients into the dry ingredients just until combined. Do not overmix, here should be lumps in the batter.
 
-Modified from [www.justataste.com][1]
+Inspired by [www.justataste.com][1]
 
 [1]: https://www.justataste.com/light-and-fluffy-buttermilk-pancakes-recipe/
