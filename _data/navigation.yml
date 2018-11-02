@@ -18,15 +18,12 @@
   url: "/food/"
   side: left
   dropdown:
-  - title: "Baking"
-    url: "/food/baking/"
-    dropdown:
-      - title: "Banana chocolate muffins"
-        url: "/food/baking/bmf/"
-       - title: "Carrot cake"
-        url: "/food/baking/carrot-cake/"
-       - title: "Chocolate chip cookies"
-        url: "/food/baking/cookies/"
+  - title: "Banana chocolate muffins"
+    url: "/food/baking/bmf/"
+  - title: "Carrot cake"
+    url: "/food/baking/carrot-cake/"
+  - title: "Chocolate chip cookies"
+    url: "/food/baking/cookies/"
   - title: "Buttermilk pancakes"
     url: "/food/buttermilk-pancakes/"
 
