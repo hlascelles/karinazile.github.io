@@ -18,13 +18,17 @@
   url: "/food/"
   side: left
   dropdown:
-  - title: "Banana chocolate muffins"
-    url: "/food/bmf/"
+  - title: "Baking"
+    url: "/food/baking/"
+    dropdown:
+      - title: "Banana chocolate muffins"
+        url: "/food/bmf/"
+       - title: "Carrot cake"
+        url: "/food/carrot-cake/"
+       - title: "Chocolate chip cookies"
+        url: "/food/cookies/"
   - title: "Buttermilk pancakes"
     url: "/food/buttermilk-pancakes/"
-  - title: "Chocolate chip cookies"
-    url: "/food/cookies/"
-
 
 - title: "Other stuff"
   url: "#"
