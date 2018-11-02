@@ -22,6 +22,9 @@
     url: "/food/bmf/"
   - title: "Buttermilk pancakes"
     url: "/food/buttermilk-pancakes/"
+  - title: "Chocolate chip cookies"
+    url: "/food/cookies/"
+
 
 - title: "Other stuff"
   url: "#"

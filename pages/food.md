@@ -5,7 +5,7 @@ teaser: "My recipes."
 show_meta: false
 breadcrumb: true
 header:
-    image: "banana_chocolate_muffins.jpg"
+    image: "placeholder.jpg"
     background-color: "#fabb00"
 permalink: "/food/"
 ---
