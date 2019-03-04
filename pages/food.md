@@ -4,9 +4,7 @@ title:  "Food"
 teaser: "My recipes."
 show_meta: false
 breadcrumb: true
-header:
-    image: "placeholder.jpg"
-    background-color: "#fabb00"
+header: no
 permalink: "/food/"
 ---
 
