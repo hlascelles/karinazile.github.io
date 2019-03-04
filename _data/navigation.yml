@@ -20,7 +20,7 @@
   - title: "Banana chocolate muffins"
     url: "/food/bcm/"
   - title: "Chocolate chip cookies"
-   url: "/food/cookies/"
+    url: "/food/cookies/"
   - title: "Carrot cake"
     url: "/food/carrot-cake/"
   - title: "Buttermilk pancakes"
