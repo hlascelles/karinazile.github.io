@@ -4,9 +4,7 @@ title:  "Buttermilk pancakes"
 teaser: "Serve with berries and yoghurt or citrus fruits and whipped feta."
 breadcrumb: true
 show_meta: true
-header:
-    image: "buttermilk_pancakes.jpg"
-    background-color: "#fabb00"
+header: no
 categories:
     - food
 tags:

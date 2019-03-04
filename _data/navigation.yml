@@ -19,13 +19,15 @@
   side: left
   dropdown:
   - title: "Banana chocolate muffins"
-    url: "/food/baking/bmf/"
-  - title: "Carrot cake"
-    url: "/food/baking/carrot-cake/"
+    url: "/food/bcm/"
   - title: "Chocolate chip cookies"
-    url: "/food/baking/cookies/"
+   url: "/food/cookies/"
+  - title: "Carrot cake"
+    url: "/food/carrot-cake/"
   - title: "Buttermilk pancakes"
-    url: "/food/buttermilk-pancakes/"
+   url: "/food/buttermilk-pancakes/"
+  - title: "Rhubarb crumble"
+    url: "/food/rhubarb-crumble/"
 
 - title: "Other stuff"
   url: "#"
