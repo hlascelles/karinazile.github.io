@@ -27,6 +27,8 @@
     url: "/food/buttermilk-pancakes/"
   - title: "Rhubarb crumble"
     url: "/food/rhubarb-crumble/"
+  - title: "Aubergine chocolate cake"
+    url: "/food/aubergine-chocolate-cake/"
 
 - title: "Other stuff"
   url: "#"
