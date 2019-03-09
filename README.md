@@ -30,5 +30,5 @@ All includes with `_` are used for templates, like for example the `_head.html` 
 {% include gallery %}
 
 
-
+## Make images of appropriate size
 convert DSC_0003.JPG -define jpeg:extent=300kb buttermilk_pancakes.jpg

@@ -6,12 +6,17 @@
   side: left
 
 - title: "My Research"
-  url: "#"
+  url: "/research/"
   side: left
 
 - title: "My Planet"
-  url: "#"
+  url: "/travel/"
   side: left
+  dropdown:
+  - title: "Edinburgh"
+    url: "/travel/edinburgh/"
+  - title: "Madrid"
+    url: "/travel/madrid/"
 
 - title: "Food"
   url: "/food/"
@@ -29,7 +34,3 @@
     url: "/food/rhubarb-crumble/"
   - title: "Aubergine chocolate cake"
     url: "/food/aubergine-chocolate-cake/"
-
-- title: "Other stuff"
-  url: "#"
-  side: left

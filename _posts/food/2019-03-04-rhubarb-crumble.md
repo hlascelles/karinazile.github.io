@@ -1,15 +1,15 @@
 ---
 layout: page_kz
 title:  "Rhubarb crumble"
-teaser: "Ultimate sweet and sour taste to be enjoyed warm with a scoop of cold ice cream"
+teaser: "Ultimate sweet and sour taste to be enjoyed warm with a scoop of cold ice cream."
 breadcrumb: true
 show_meta: true
 header: no
 categories:
     - food
 tags:
-    - cookies
     - baking
+
 ---
 
 ## Ingredients:
