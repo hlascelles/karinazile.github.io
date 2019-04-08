@@ -1,14 +1,11 @@
 ---
 layout: page_kz
-title:  "Exploring my planet."
-teaser: "Best places I've discovered on my travels..."
+title:  "Exploring my planet"
+teaser: ""
+show_meta: false
 breadcrumb: true
-show_meta: true
 header: no
-categories:
-    - research
-tags:
-    - project
+permalink: "/travel/"
 ---
 
 Traveling...

@@ -12,7 +12,7 @@ title: "Hello, I am Karina."
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Research, travel, eat, repeat"
+slogan: "Do science, travel, eat, repeat."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -41,7 +41,7 @@ urlimg: 'https://karinazile.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: ""
 
 
 # Paginates all X entries

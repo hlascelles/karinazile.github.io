@@ -1,14 +1,11 @@
 ---
 layout: page_kz
-title:  "Making sense of scRNAseq data with VAE"
-teaser: "My PhD project..."
+title:  "My scientific journey"
+teaser: ""
+show_meta: false
 breadcrumb: true
-show_meta: true
 header: no
-categories:
-    - research
-tags:
-    - project
+permalink: "/research/"
 ---
 
 Researching...
