@@ -4,9 +4,9 @@ header: no
 title:  "Hello!"
 teaser: ""
 show_meta: false
-image:
-    title: homepage_image.jpg
 permalink: /index.html
 ---
+
+{% picture homepage_image.jpg %}
 
 My name is Karina.
