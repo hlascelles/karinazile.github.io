@@ -1,18 +1,15 @@
 ---
 layout: page_kz
 title:  "Rhubarb crumble"
-teaser: "Ultimate sweet and sour taste to be enjoyed warm with a scoop of cold ice cream."
 breadcrumb: true
 show_meta: true
 header: no
 categories:
     - food
-tags:
-    - baking
 
 ---
 
-## Ingredients:
+### Ingredients:
 
 * 400g rhubarb
 * 75g sugar
@@ -25,16 +22,17 @@ tags:
 * a bit of salt
 * almond flakes
 
-
-## Methods:
+### Methods:
 
 * Preheat the oven to 200C.
 * Chop the rhubarb into pieces (not too small), mix with sugar and port (optional) directly in the baking dish.
 * With your hands mix flour, oats, sugar, salt and cubes of cold butter. Shape into clumps of random size and shape and scatter on top of the rhubarb.
 * Bake for 15 min, then scatter almond flakes on top and continue baking until the rhubarb is tender and the top is crisp and golden (about 30 min in total).
 
+**Serving suggestions:** Sourness of rhubarb goes well with a scoop of plain ice cream.
 
+**Note:** Use whatever is in season - peaches, apples, etc.
 
-Inspired by [www.jamieoliver.com][1]
+**Inspired by:** [www.jamieoliver.com][1]
 
 [1]: https://www.jamieoliver.com/features/how-to-make-rhubarb-crumble/

@@ -1,28 +1,25 @@
 ---
 layout: page_kz
 title:  "Aubergine chocolate cake"
-teaser: "Rich, dense, moist and gluten free."
 breadcrumb: true
 show_meta: true
 header: no
 categories:
     - food
-tags:
-    - baking
 
 ---
 
-## Ingredients:
+### Ingredients:
 
 * 450g aubergines
 * 200g butter
 * 225g dark chocolate
 * 3 eggs
 * 200g sugar
-* 65g cocoa powder (or 85g)
+* 65g cacao powder
 * 150g ground almonds
 
-## Methods:
+### Methods:
 
 * Pierce the aubergines with a fork and steam them until soft. Let them cool down.
 * Preheat the oven to 180C.
@@ -34,11 +31,13 @@ tags:
 * Gently fold the aubergines into the eggs, don't over mix.
 * Transfer into a greased cake tin and bake for about 45min. Refrigerate overnight.
 
-## Ideas:
+**Note:** If you don't have cacao powder (ground un-roasted cacao beans) use cocoa powder.
 
-* Try ground hazelnuts instead.
+### Ideas:
 
+* Try ground hazelnuts instead
+* Increase the cacao content to 85g to make the flavour more intense
 
-Inspired by [www.greatbritishchefs.com][1]
+**Inspired by:** [www.greatbritishchefs.com][1]
 
 [1]: https://www.greatbritishchefs.com/recipes/aubergine-chocolate-cake-recipe

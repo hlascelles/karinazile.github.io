@@ -1,17 +1,15 @@
 ---
 layout: page_kz
 title:  "Buttermilk pancakes"
-teaser: "Serve with berries and yoghurt or citrus fruits and whipped feta."
 breadcrumb: true
 show_meta: true
 header: no
 categories:
     - food
-tags:
-    - breakfast
+
 ---
 
-## Ingredients:
+### Ingredients:
 
 * 1.5 cups flour
 * 2 teaspoons baking powder
@@ -24,12 +22,14 @@ tags:
 * 2 tablespoons butter
 
 
-## Methods:
+###Methods:
 
 * Mix the flour, baking powder, baking soda, sugar and salt.
 * Separately whisk together the buttermilk, egg and melted butter. 
 * Stir the wet ingredients into the dry ingredients just until combined. Do not overmix, here should be lumps in the batter.
 
-Inspired by [www.justataste.com][1]
+**Serving suggestions:** Berries and yoghurt; citrus fruits and whipped feta.
+
+**Inspired by:** [www.justataste.com][1]
 
 [1]: https://www.justataste.com/light-and-fluffy-buttermilk-pancakes-recipe/
