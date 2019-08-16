@@ -11,13 +11,13 @@ categories:
 
 ### Ingredients:
 
-* 1.5 cups flour
+* 200g flour (1.5 cups)
 * 2 teaspoons baking powder
 * 0.5 teaspoon baking soda
 * 1 tablespoon sugar
 * 0.25 teaspoon salt
 
-* 1.5 cups buttermilk
+* 375g buttermilk (1.5 cups)
 * 1 egg
 * 2 tablespoons butter
 
