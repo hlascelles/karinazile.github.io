@@ -22,7 +22,7 @@ categories:
 * 2 tablespoons butter
 
 
-###Methods:
+### Methods:
 
 * Mix the flour, baking powder, baking soda, sugar and salt.
 * Separately whisk together the buttermilk, egg and melted butter. 
