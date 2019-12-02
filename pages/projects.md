@@ -1,11 +1,11 @@
 ---
 layout: page_kz
-title:  "My scientific journey"
+title:  "Projects"
 teaser: ""
 show_meta: false
 breadcrumb: true
 header: no
-permalink: "/research/"
+permalink: "/projects/"
 ---
 
-Researching...
+My projects...

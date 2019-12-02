@@ -16,7 +16,7 @@ categories:
 * 225g dark chocolate
 * 3 eggs
 * 200g sugar
-* 65g cacao powder
+* 60-90g cacao powder
 * 150g ground almonds
 
 ### Methods:
@@ -32,11 +32,6 @@ categories:
 * Transfer into a greased cake tin and bake for about 45min. Refrigerate overnight.
 
 **Note:** If you don't have cacao powder (ground un-roasted cacao beans) use cocoa powder.
-
-### Ideas:
-
-* Try ground hazelnuts instead
-* Increase the cacao content to 85g to make the flavour more intense
 
 **Inspired by:** [www.greatbritishchefs.com][1]
 

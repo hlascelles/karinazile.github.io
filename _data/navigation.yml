@@ -5,30 +5,29 @@
   url: "/"
   side: left
 
-- title: "My Research"
-  url: "/research/"
+- title: "Projects"
+  url: "/projects/"
   side: left
+  dropdown:
+  - title: "Stop Plastic Pollution"
+    url: "/projects/stop-plastic-pollution/"
+  - title: "London PyTorch Meetup"
+    url: "/projects/london-pytorch-meetup/"
 
 - title: "My Planet"
   url: "/travel/"
   side: left
   dropdown:
-  - title: "London"
-    url: "/travel/london/"
-  - title: "Europe"
-    url: "/travel/europe/"
-  - title: "Japan"
-    url: "/travel/japan/"
-  - title: "USA"
-    url: "/travel/usa/"
+  - title: "Countries"
+    url: "/travel/countries/"
 
 - title: "Food"
   url: "/food/"
   side: left
   dropdown:
+  - title: "Savoury"
+    url: "/food/savoury/"
+  - title: "Sweet"
+    url: "/food/sweet/"
   - title: "Baking"
     url: "/food/baking/"
-  - title: "Breakfast"
-    url: "/food/breakfast/"
-  - title: "Main courses"
-    url: "/food/mains/"

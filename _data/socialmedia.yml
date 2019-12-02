@@ -1,11 +1,16 @@
-- name: GitHub
-  url: https://github.com/KarinaZile
-  class: icon-github
+- name: Email
+  url: mailto:hello@karina.io
+  class: icon-mail
   title: ""
 
 - name: LinkedIn
   url: https://www.linkedin.com/in/karina-zile
   class: icon-linkedin
+  title: ""
+
+- name: GitHub
+  url: https://github.com/KarinaZile
+  class: icon-github
   title: ""
 
 # - name: YouTube
