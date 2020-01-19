@@ -13,7 +13,7 @@ We are all equal, in a sence that we all have exactly 24 hours a day. Most of us
 
 Here I want to share my projects - the things that I choose to dedicate my time to. Currently my main project is to [stop plastic pollution][1] of our oceans. In my spare time I also work on the following side projects:
 
-* [London PyTorch Meetup]({{site.url}}{{site.baseurl}}/projects/london-pytorch-meetup/) 
+* [London PyTorch Meetup](/projects/london-pytorch-meetup/) 
 * ... (the description will be added soon)
 
 
